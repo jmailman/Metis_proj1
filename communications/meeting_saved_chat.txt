@@ -1,0 +1,30 @@
+10:35:42	 From Jesel Roosevelt : Hi All— Slack seems to be down for the moment. Please feel free to message here if needed either to everyone or direct message to whomever you need.
+11:40:16	 From Joshua Mailman to Chris Chan (Direct Message) : Here’s what I ended up with:
+11:40:18	 From Joshua Mailman to Chris Chan (Direct Message) : for i in range(1, 101):
+    s = ""
+    if i % 3 == 0:
+        s += "Fizz"
+    if i % 5 == 0:
+        s += "Buzz"
+    if s =="":
+        s=i
+    print(s)
+11:41:08	 From Chris Chan to Joshua Mailman (Direct Message) : Nice! I like it
+11:41:24	 From Chris Chan to Joshua Mailman (Direct Message) : Does that mean “I” is now a string?
+11:41:46	 From Joshua Mailman to Chris Chan (Direct Message) : It means that i is assigned to s.
+11:41:59	 From Joshua Mailman to Chris Chan (Direct Message) : In python it just converts to a string
+11:42:02	 From Joshua Mailman to Chris Chan (Direct Message) : With no fuss
+11:42:07	 From Chris Chan to Joshua Mailman (Direct Message) : gotcha
+11:42:19	 From Chris Chan to Joshua Mailman (Direct Message) : Oh the joy of learning a new language
+11:47:22	 From Joshua Mailman : Are we supposed to download something from githhub just now?
+14:09:34	 From Andrew Smith (Lasso) : Is there an appointlet link to use?
+14:10:13	 From Leon Johnson : Yes! That link is available in the Student GitHub Repository.
+14:10:20	 From Andrew Smith (Lasso) : Thanks!
+14:19:06	 From Leon Johnson : https://github.com/thisismetis/onl_ds5
+15:07:41	 From Garreth Cline (Lasso) : git remote remove upstream
+15:11:03	 From Tawney Lott (Lasso) : I used master and got up to date. Did you type master or main?
+15:16:52	 From Josef Seemayer (Lasso) : SSH remote add worked, since I cloned using SSH
+16:11:55	 From Chris Chan (Lasso) : https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/
+16:13:33	 From Joshua Mailman (lasso) : https://www.kaggle.com/muonneutrino/mapping-new-york-city-census-data
+16:14:49	 From Chris Chan (Lasso) : http://web.mta.info/developers/data/nyct/subway/Stations.csv
+16:49:50	 From Chris Chan (Lasso) : http://web.mta.info/developers/turnstile.html
